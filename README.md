@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+Me apaixonando cada vez mais pela programação.
+Sempre aprendendo, atualmente parcitipando na NLW da Rocketseat
+Escrevo principalmente em java.
+<br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games e seriados no Netflix
+Entre em contato comigo: lucas.gbastos@hotmail.com
 <!--
 **lgBastos/lgBastos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
