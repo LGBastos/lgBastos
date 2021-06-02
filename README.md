@@ -1,20 +1,22 @@
 ### Hi there 👋
 Me apaixonando cada vez mais pela programação.
-Sempre aprendendo, atualmente parcitipando na NLW da Rocketseat
-Escrevo principalmente em java.
-<br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games e seriados no Netflix
-Entre em contato comigo: lucas.gbastos@hotmail.com
+- 🔭 I’m currently working on Myself
+- 🌱 I’m currently learning SQL and Oracle DataBase
+- 👯 I’m looking to collaborate on Object Oriented Programing
+- 📫 How to reach me: lucas.gbastos@hotmail.com
+- 😄 Pronouns: He/his
+<br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games.
+
 <!--
 **lgBastos/lgBastos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
+- 👯 I’m looking to collaborate on Object Oriented Programing
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: lucas.gbastos@hotmail.com
+- 😄 Pronouns: He/his
 - ⚡ Fun fact: ...
 -->
