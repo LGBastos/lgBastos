@@ -5,7 +5,7 @@ Me apaixonando cada vez mais pela programação.
 - 👯 I’m looking to collaborate on Object Oriented Programing
 - 📫 How to reach me: lucas.gbastos@hotmail.com
 - 😄 Pronouns: He/his
-<br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games.
+<br/> 💬  &nbsp; Sobre mim: Some times eu mudo entre inglês e portuguese sem nem realise.
 
 <!--
 **lgBastos/lgBastos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
