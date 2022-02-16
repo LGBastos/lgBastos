@@ -1,8 +1,8 @@
 ### Hi there 👋
 Me apaixonando cada vez mais pela programação.
 - 🔭 I’m currently working on Myself
-- 🌱 I’m currently learning SQL and Oracle DataBase
-- 👯 I’m looking to collaborate on Object Oriented Programing
+- 🌱 I’m currently learning html, css and JavaScript
+- 👯 I’m looking to collaborate on Object Oriented Programing(especially in Java)
 - 📫 How to reach me: lucas.gbastos@hotmail.com
 - 😄 Pronouns: He/his
 <br/> 💬  &nbsp; Sobre mim: Some times eu mudo entre inglês e portuguese sem nem realise.
